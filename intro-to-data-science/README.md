@@ -1,10 +1,10 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Immersive
 
-Welcome to Data Science! We are building a global community of lifelong learners who are excited about using data to solve real world problems. 
+Welcome to Data Science Immersive! We are building a global community of lifelong learners who are excited about using data to solve real world problems. 
 
 In this program, you’ll take on real world problems by analyzing data sets for insights and presenting findings using statistics, programming, data modeling, and business knowledge.
 
-## Course Value Proposition
+## Course Value Proposition Program
 
 This course is designed to give you the deep dive into the world of *Data Science*, focusing on the ability to analyze and convey data-driven facts in order to predict what happens next using modeling and pattern recognition. Our course prepares students to take full-time roles as Data Analysis, Data Scientists, Business Intelligence Analysts, and other roles that require advanced fluency with data. Our projects immerse students in formal data-driven scenarios in order to help them create a polished portfolio of work showcasing their ability to create and communicate machine learning insights.
 
